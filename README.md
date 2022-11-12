@@ -6,6 +6,8 @@ Simple tool to get active developer badge in discord
 
 ## Usage
 
+[Watch Tutorial](https://streamable.com/cxlzn9)
+
 ### Grabbing required paramaters
 
 1. Create new application in [here](https://discord.com/developers/applications).
